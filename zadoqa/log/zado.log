@@ -1,0 +1,7 @@
+2017-08-28 17:50:11 INFO  Directory:152 - Reading from custom properties
+2017-08-28 17:50:11 INFO  Directory:368 - Setting Reports Dir---C:/workspace/Zautomate/ZA/Reports
+2017-08-28 17:50:11 INFO  Directory:369 - Setting Results Dir---C:/workspace/Zautomate/ZA/Reports\Results
+2017-08-28 17:50:14 INFO  TestNGClass:128 - before set driver Thread -----8------------driver------------ChromeDriver: chrome on XP (3dc3d214b5e8a765ec2089121d03c63b)
+2017-08-28 17:50:14 INFO  TestNGClass:132 - after set driver Thread -----8------------driver------------ChromeDriver: chrome on XP (3dc3d214b5e8a765ec2089121d03c63b)
+2017-08-28 17:51:08 INFO  Manipulation:310 - Unable to select selectbox: [[ChromeDriver: chrome on XP (3dc3d214b5e8a765ec2089121d03c63b)] -> id: cmbOPAliasName]
+2017-08-28 17:52:14 INFO  TestNGClass:281 - Thread @ close-----8------------driver------------ChromeDriver: chrome on XP (null)

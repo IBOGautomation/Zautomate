@@ -1,0 +1,31 @@
+Digital Input Pre-Requisite 
+
+### IO Configuration Digital Input configuration should be in below mentioned.
+
+Channel Name :                ON State             OFF State
+1. Digital Input 1              HIGH                 LOW
+2. Digital Input 2              HIGH                 LOW
+3. Digital Input 3              HIGH                 LOW
+4. Digital Input 4              HIGH                 LOW
+5. Digital Input 5              HIGH                 LOW
+6. Digital Input 6              HIGH                 LOW
+7. Digital Input 7              HIGH                 LOW
+8. Digital Input 8              HIGH                 LOW
+
+### IO Configuration Digital Output configuration should be in below mentioned.
+Source         Channel Name :          ON State          OFF State     PowerOnValue  	  Alarm Action
+Alarm 		Digital Output 1	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 2	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 3	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 4	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 5	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 6	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 7	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 8	        HIGH                 LOW		    0				DO HIGH
+
+### IO Configuration Relay Output configuration should be in below mentioned.
+Source       Channel Name :          ON State          OFF State     PowerOnValue  	  Alarm Action
+Alarm 			RELAY-1	        	 ACTIVATE           RELEASE		       0		 Activate Relay
+Alarm 			RELAY-2	      		 ACTIVATE           RELEASE		   	   0		 Activate Relay
+Alarm 			RELAY-3	        	 ACTIVATE           RELEASE		       0		 Activate Relay
+Alarm 			RELAY-4	       		 ACTIVATE           RELEASE		       0		 Activate Relay

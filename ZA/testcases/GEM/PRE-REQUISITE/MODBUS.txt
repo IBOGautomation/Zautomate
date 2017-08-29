@@ -1,0 +1,29 @@
+Digital Input Pre-Requisite 
+
+### Modbus configuration should be in below mentioned.
+
+Channel Port    	Device Name :             Device Type
+
+  RS-485 1		 MODBUS_1		   MODBUS_1
+
+
+
+### IO Configuration Digital Output configuration should be in below mentioned.
+Source         Channel Name :          ON State          OFF State     PowerOnValue  	  Alarm Action
+Alarm 		Digital Output 1	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 2	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 3	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 4	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 5	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 6	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 7	        HIGH                 LOW		    0				DO HIGH
+Alarm 		Digital Output 8	        HIGH                 LOW		    0				DO HIGH
+
+
+
+### IO Configuration Relay Output configuration should be in below mentioned.
+Source       Channel Name :          ON State          OFF State     PowerOnValue  	  Alarm Action
+Alarm 			RELAY-1	        	 ACTIVATE           RELEASE		       0		 Activate Relay
+Alarm 			RELAY-2	      		 ACTIVATE           RELEASE		   	   0		 Activate Relay
+Alarm 			RELAY-3	        	 ACTIVATE           RELEASE		       0		 Activate Relay
+Alarm 			RELAY-4	       		 ACTIVATE           RELEASE		       0		 Activate Relay
